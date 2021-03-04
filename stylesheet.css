@@ -59,7 +59,6 @@ li {
 .photo-profile {
   width: 250px;
   height: 250px;
-  background-image: url('../images/1.png');
   background-size: cover;
   border-radius: 50%;
   float: center;
