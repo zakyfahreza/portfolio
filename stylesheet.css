@@ -59,7 +59,7 @@ li {
 .photo-profile {
   width: 250px;
   height: 250px;
-  background-image: url('images/Muhammad Zaky Fahreza.png');
+  background-image: url('../images/Muhammad Zaky Fahreza.png');
   background-size: cover;
   border-radius: 50%;
   float: center;
