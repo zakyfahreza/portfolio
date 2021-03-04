@@ -56,7 +56,7 @@ li {
   color: #f2d00d;
 }
 
-.photo-profile {
+/*.photo-profile {
   width: 250px;
   height: 250px;
   background-image: url('../images/1.png');
@@ -64,7 +64,7 @@ li {
   border-radius: 50%;
   float: center;
   margin: 0 auto;
-}
+}*/
 
 .about { 
   font-size: 28px;
